@@ -29,3 +29,9 @@ The model solves for the best-fit line $y = mx + b$ by minimizing the sum of squ
 Evaluated on the training dataset, the custom OLS model demonstrates exceptional precision:
 * **Training RMSE:** `1.1180`
 * **Training $R^2$ Score:** `0.9900` *(Explains 99% of variance)*
+
+
+<img width="636" height="473" alt="olstrain" src="https://github.com/user-attachments/assets/935f39cf-51db-4007-8010-3323f06e4f73" />
+
+<img width="796" height="596" alt="olstest" src="https://github.com/user-attachments/assets/82339c8e-28a5-4ea4-b133-41ecd0105216" />
+
